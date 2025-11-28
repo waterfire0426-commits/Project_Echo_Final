@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a66e60fc15f1b94890372fb9aa1b6f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {instanceID: 0}
+  - videoCanvas: {instanceID: 0}
+  - act1Clip: {fileID: 32900000, guid: 478f2675bb5fc8845898264d2cf64797, type: 3}
+  - act2Clip: {fileID: 32900000, guid: b93a3602ebe03904e9004f8ff0ae79c0, type: 3}
+  - endingClip: {fileID: 32900000, guid: bfbb954fa11e2b94695b3fd1b134713b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
